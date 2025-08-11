@@ -7,6 +7,7 @@
   - Dropped support for Django < 4.2
   - Dropped support for Python < 3.9
   - Fixed distutils deprecation
+  - Replaced deprecated `index_together` with explicit composite index
 
 ## 1.8.3
 
